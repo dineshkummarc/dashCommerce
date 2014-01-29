@@ -1,4 +1,4 @@
 dashCommerce
 ============
 
-This is the new version of dashCommerce!
+This is Readme and is the new version of dashCommerce!
